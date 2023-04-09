@@ -4,7 +4,6 @@ PDF Splitter is a Python script that extracts the first page of a PDF file and s
 
 # Setup
 1. Have python installed on your computer. pip install PyPDF2 library on your computer
-
     that can be done like this:
 
     pip install PyPDF2
